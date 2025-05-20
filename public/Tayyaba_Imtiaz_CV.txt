@@ -1,2 +1,0 @@
-This is a placeholder for the actual PDF CV file.
-When deploying the site, replace this with the real PDF resume.

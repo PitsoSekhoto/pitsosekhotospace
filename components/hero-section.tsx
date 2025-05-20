@@ -27,7 +27,7 @@ export function HeroSection() {
                 <a href="#contact">Get in Touch</a>
               </Button>
               <Button variant="outline" asChild className="group">
-                <a href="/Resume_CV.txt" download="Pitso_Sekhoto_CV.pdf" className="flex items-center">
+                <a href="/Resume_CV.pdf" download="Pitso_Sekhoto_CV.pdf" className="flex items-center">
                   <Download className="mr-2 h-4 w-4 transition-transform group-hover:-translate-y-1" />
                   Download CV
                 </a>
@@ -39,7 +39,7 @@ export function HeroSection() {
               className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary animate-in"
               style={{ animationDelay: "0.4s" }}
             >
-              <img src="/images/profile.png" alt="Pitso Sekhoto" className="w-full h-full object-cover" />
+              <img src="/images/profile.jpg" alt="Pitso Sekhoto" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>
