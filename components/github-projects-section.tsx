@@ -35,10 +35,10 @@ export function GitHubProjectsSection() {
         }
 
         const data = await response.json()
-        // Filter out forked repositories and sort by stars
+        // Filter out forked repositories and sort by updated_at (most recent first)
         const ownRepos = data
           .filter((repo: GitHubRepo) => !repo.fork)
-          .sort((a: GitHubRepo, b: GitHubRepo) => b.stargazers_count - a.stargazers_count)
+          .sort((a: GitHubRepo, b: GitHubRepo) => new Date(b.updated_at).getTime() - new Date(a.updated_at).getTime())
           .slice(0, 6) // Limit to 6 projects
 
         setProjects(ownRepos)
