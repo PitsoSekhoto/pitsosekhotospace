@@ -14,7 +14,7 @@ export function EducationSection() {
       level: "High School",
       institution: "Michaelhouse, Balgowan",
       period: "2016 – 2020",
-      details: "Bachelor’s Pass | GPA: 2.3",
+      details: "Bachelor’s Pass ",
       icon: <BookOpen className="h-8 w-8 text-primary" />,
     },
     {
