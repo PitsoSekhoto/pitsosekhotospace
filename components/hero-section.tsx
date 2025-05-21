@@ -39,7 +39,7 @@ export function HeroSection() {
               className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary animate-in"
               style={{ animationDelay: "0.4s" }}
             >
-              <img src="/images/profile.jpg" alt="Pitso Sekhoto" className="w-full h-full object-cover" />
+              <img src="/images/profilepicture1.jpg" alt="Pitso Sekhoto" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>
