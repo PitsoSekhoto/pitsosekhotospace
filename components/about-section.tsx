@@ -20,10 +20,10 @@ export function AboutSection() {
             <p className="text-foreground">
               Career Objective
               Responsible and ambitious student with a strong work ethic, 
-              seeking opportunities to apply and expand my knowledge in software development and information systems. 
-              I bring a passion for learning new technologies, proven communication skills, 
-              and a drive to contribute meaningfully to team goals and project success. 
-              My aim is to gain valuable hands-on experience that will support my long-term goal of building and running my own tech-focused business.
+              seeking opportunities to apply and grow my skills in software development and information systems.
+              I am passionate about learning emerging technologies, with proven communication and teamwork abilities. 
+              Motivated to contribute meaningfully to innovative projects and organizational goals, 
+              while continuously developing both technical and professional expertise.
             </p>
           </div>
         </div>
