@@ -18,11 +18,12 @@ export function AboutSection() {
           <div className="bg-card p-6 rounded-lg shadow-sm border">
             <h3 className="text-xl font-semibold mb-4 text-primary">Career Objective</h3>
             <p className="text-foreground">
-              Responsible and ambitious student with a strong work ethic, seeking opportunities to apply and expand my
-              knowledge in software development and information systems. I bring a passion for learning new
-              technologies, proven communication skills, and a drive to contribute meaningfully to team goals and
-              project success. My aim is to gain valuable hands-on experience that will support my long-term goal of
-              building and running my own tech-focused business.
+              Career Objective
+              Responsible and ambitious student with a strong work ethic, 
+              seeking opportunities to apply and expand my knowledge in software development and information systems. 
+              I bring a passion for learning new technologies, proven communication skills, 
+              and a drive to contribute meaningfully to team goals and project success. 
+              My aim is to gain valuable hands-on experience that will support my long-term goal of building and running my own tech-focused business.
             </p>
           </div>
         </div>
