@@ -27,7 +27,7 @@ export function HeroSection() {
                 <a href="#contact">Get in Touch</a>
               </Button>
               <Button variant="outline" asChild className="group">
-                <a href="/Resume_CV.pdf" download="Pitso_Sekhoto_CV.pdf" className="flex items-center">
+                <a href="/Pitso_Sekhoto_-_-4.pdf" download="Pitso_Sekhoto_-_-4.pdf" className="flex items-center">
                   <Download className="mr-2 h-4 w-4 transition-transform group-hover:-translate-y-1" />
                   Download CV
                 </a>
